@@ -1,2 +1,2 @@
 # rodrigo.psic-main
-https://vercel.com/sebastiao-oliveira/rodrigo-psic-main
+https://rodrigo-psic-main.vercel.app/
